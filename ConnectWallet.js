@@ -1,7 +1,7 @@
 import './App.css';
 import { useState } from 'react';
 import Web3Modal from "web3modal";
-import {ethers} from "ethers";
+// import {ethers} from "ethers";
 import CoinbaseWalletSDK from "@coinbase/wallet-sdk";
 
 //https://goerli.infura.io/v3/8f20084a87d143fe91461f60bd67979e
